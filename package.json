@@ -1,7 +1,8 @@
 {
-  "name": "clinic-demo",
+  "name": "medbill-pro-demo",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Medical Clinic Invoice Dashboard Demo - AI-powered invoice processing demo for sales presentations",
   "type": "module",
   "scripts": {
     "dev": "vite",
